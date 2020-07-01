@@ -14,8 +14,8 @@ slug: 'retail-usum-wormhole'
 
 ### Recommended reading/references
 
-- [Timeline Guide](https://pokemonrng.com/guides/usum/en/Timeline%20Guide/)
-- [Timeline and Timeline 2.0 Guide](https://github.com/wwwwwwzx/3DSRNGTool/wiki/Gen7-Timeline-Calibration-%28PokeCalcNTR-Only%29)
+- Timeleap guide (explaining it's the most viable and the advantages)
+- Fidgetting guide (explaining that it's outdated but it works)
 - [3DSRNGTool README](https://github.com/wwwwwwzx/3DSRNGTool/blob/master/README.md) - list of final screens before the Pokemon is generated
 
 ## Step 1: Finding your seed
