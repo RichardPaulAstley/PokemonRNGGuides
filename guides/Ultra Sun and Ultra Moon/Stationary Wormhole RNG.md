@@ -24,46 +24,7 @@ The seed is shown at the top of the overlay with the label of "Init Seed:". In t
 
 ![](https://i.imgur.com/FXtylJx.png)
 
-## Step 2: Calibrating a basic timeline
-
-Follow the [timeline guide](https://pokemonrng.com/guides/usum/en/Timeline%20Guide/) to create a timeline and find a target frame.
-
-## Step 3: Timeline 2.0
-
-```
-Note: This process doesn't work with Xurkitree and Nihilego as there appears to be some extra noise that makes some RNG calls. There is work being done to make a process for those.
-```
-
-1. After calibrating a basic timeline you need to watch for your character to "fidget" and pause there.
-   - This must be the first fidget after calibrating your timeline
-   - This does not have to be the first fidget when you load in just the first fidget after calibrating any timeline
-
-```
-Note: The NPC count is a calculation so when the fidget happens the NPC count on the overlay will jump because of the frame jump. This does not mean your base NPC count is off it is just the calculation taking the fidget into account (NPC count = max # of frames advanced - 1).
-```
-
-Boy:
-
-![](https://camo.githubusercontent.com/6319d400d9f87d6dceda41b36caad2bc2a03d905/68747470733a2f2f692e696d6775722e636f6d2f6d41794a3149372e676966) ![](https://camo.githubusercontent.com/dfd85f146d791e87030b5c402100fb64ea711837/68747470733a2f2f692e696d6775722e636f6d2f62587a704d42702e676966)
-
-Girl:
-
-![](https://camo.githubusercontent.com/783ad84d0ba843a82f8ceae7224f88d12278a35c/68747470733a2f2f692e696d6775722e636f6d2f637735787770432e676966) ![](https://camo.githubusercontent.com/4d46716f6dbda58e43acbb7a4837644e6b99bfd9/68747470733a2f2f692e696d6775722e636f6d2f4e6c78337278452e676966)
-
-My character mid fidget:
-
-![](https://i.imgur.com/lhAMvJk.png)
-
-2. Advance through the fidget using select until you notice a jump in frames that doesn't show on your timeline.
-
-   - This will usually be 3-4 frames in the case of wormholes as they all have 1 NPC.
-   - In my case the frames jumped from 1320-1324, which means I need to put 1320 in my fidget setting (Check the box and put it in).
-
-3. Once entered hit Calculate and you can see the frame jump accounted for in your timeline.
-
-![](https://i.imgur.com/VtG9yur.jpg) ![](https://i.imgur.com/09VjphH.jpg)
-
-## Step 4: Hit your Target Frame
+## Step 2: Hit your Target Frame
 
 1. Now you can search for your target by entering what you are looking for in the filters and hitting calculate.
 
